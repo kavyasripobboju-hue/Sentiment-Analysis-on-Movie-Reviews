@@ -49,6 +49,28 @@ DistilBERT achieved the highest performance due to its ability to capture contex
 
 The trained model was deployed using Streamlit, allowing users to enter movie reviews and receive real-time sentiment predictions.
 
+## Streamlit Application
+
+The trained model was deployed using Streamlit, allowing users to enter movie reviews and receive real-time sentiment predictions.
+
+## Application Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Positive Prediction
+![Positive Prediction](screenshots/positive_prediction.png)
+
+### Negative Prediction
+![Negative Prediction](screenshots/negative_prediction.png)
+
+## Future Improvements
+
+- Multi-class sentiment classification
+- Sarcasm detection
+- Aspect-based sentiment analysis
+- Cloud deployment
+
 ## Future Improvements
 
 * Multi-class sentiment classification
